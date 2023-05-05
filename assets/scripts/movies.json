@@ -1,0 +1,39 @@
+{
+    "movies" : [
+        {   
+            "title" : "Jurassic Park",
+            "poster" : "https://raw.githubusercontent.com/mrspecht/media/main/img/jurassic-park.jpg",
+            "slug" : "jurassic-park"
+        },
+        {
+            "title" : "Eternals",
+            "poster" : "https://raw.githubusercontent.com/mrspecht/media/main/img/eternals.jpg",
+            "slug" : "eternals"
+        },
+        {
+            "title" : "F9: The Fast Saga",
+            "poster" : "https://raw.githubusercontent.com/mrspecht/media/main/img/f9-the-fast-saga.jpg",
+            "slug" : "f9-the-fast-saga"
+        },
+        {
+            "title" : "Ocean's Eleven",
+            "poster" : "https://raw.githubusercontent.com/mrspecht/media/main/img/oceans-eleven.jpg",
+            "slug" : "oceans-eleven"
+        },
+        {
+            "title" : "Spider-Man: No Way Home",
+            "poster" : "https://raw.githubusercontent.com/mrspecht/media/main/img/spider-man-no-way-home.jpg",
+            "slug" : "spider-man-no-way-home"
+        },
+        {
+            "title" : "Toy Story 3",
+            "poster" : "https://raw.githubusercontent.com/mrspecht/media/main/img/toy-story-3.jpg",
+            "slug" : "toy-story-3"
+        },
+        {
+            "title" : "The Flash",
+            "poster" : "https://raw.githubusercontent.com/mrspecht/media/main/img/the-flash.jpg",
+            "slug" : "the-flash"
+        }
+    ]
+}
